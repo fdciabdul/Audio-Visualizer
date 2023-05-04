@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const audioUrl = '/audio/audio.mp3';
-  const imageUrl = '/img/circle.png';
+  const audioUrl = 'audio/audio.mp3';
+  const imageUrl = 'img/circle.png';
 
   const canvas = document.getElementById('visualizer');
   const ctx = canvas.getContext('2d');
